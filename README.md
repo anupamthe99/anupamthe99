@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **puspaanupam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Nq6-fYWkcTYxjMcDqvSKQqgVWtvfa_J-/view](https://drive.google.com/file/d/1Nq6-fYWkcTYxjMcDqvSKQqgVWtvfa_J-/view)
+- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1Nq6-fYWkcTYxjMcDqvSKQqgVWtvfa_J-/view](https://drive.google.com/file/d/1nekweNvig0c1hQmulh_XgsLbbrVdr3Ih/view?usp=sharing))
 
 - ⚡ Fun fact **I love binging movie 🎦 a lot .**
 
