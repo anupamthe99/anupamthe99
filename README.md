@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupam Chauhan</h1>
-<h3 align="center">A passionate Full stack developer from Nepal</h3>
+<h3 align="center">A passionate backend developer from Nepal</h3>
 
 - 🔭 I’m currently working on [ReuseBookNepal](https://reusebooknepal.pythonanywhere.com/)
 
