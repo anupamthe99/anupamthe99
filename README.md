@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student and backend developerwho specializes in building RESTful APIs using Python .  I'm interested in software development in general and enjoy exploring different languages and frameworks. In my free time, I like to participate in coding communities and contribute to open-source projects.
+I'm a computer science student and backend developer who specializes in building RESTful APIs using Python .  I'm interested in software development in general and enjoy exploring different languages and frameworks. In my free time, I like to participate in coding communities and contribute to open-source projects.
 
 ![Alt Text](https://media.giphy.com/media/RPwrO4b46mOdy/giphy.gif)
 
